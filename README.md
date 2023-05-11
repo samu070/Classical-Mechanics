@@ -1,2 +1,2 @@
-# Classical-Mechanics
+## ***Classical Mechanics***
 Simulations of classical mechanics.
